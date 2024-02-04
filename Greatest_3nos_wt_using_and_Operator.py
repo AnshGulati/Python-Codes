@@ -1,0 +1,1 @@
+#Greatest of three numbers without using & operator
